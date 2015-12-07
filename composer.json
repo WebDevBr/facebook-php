@@ -1,0 +1,13 @@
+{
+  "require" : {
+    "facebook/php-sdk-v4" : "5.1.0"
+  },
+  "autoload": {
+  	"psr-4": {
+  		"WebDevBr\\": "src"
+  	}
+  },
+  "require-dev": {
+    "squizlabs/php_codesniffer": "^2.4"
+  }
+}
